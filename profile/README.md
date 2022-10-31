@@ -16,7 +16,7 @@ Image Processing:
 
 
 Python API Access (ImageProcessingAPI):
-*Must have Python installed*
+Must have Python installed
 Windows Instruction for Environment-
 
   pip install virtualenv
@@ -45,7 +45,7 @@ Turn on server-
 
 
 Frontend (AAV-frontend):
-*Must have Node.js installed - Our version: https://nodejs.org/en/blog/release/v16.17.1/*
+Must have Node.js installed - Our version: https://nodejs.org/en/blog/release/v16.17.1/
 
   npm install
   
