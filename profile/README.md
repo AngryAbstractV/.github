@@ -15,9 +15,40 @@ Image Processing:
 
 
 
-Python API Access:
+Python API Access (ImageProcessingAPI):
+*Must have Python installed*
+Windows Instruction for Environment-
+
+  pip install virtualenv
+
+  virtualenv myenv
+
+  myenv\Scripts\activate
+
+  pip install -r requirements.txt
+
+Mac/Linux Instruction for Environment-
+
+  pip install virtualenv
+
+  virtualenv myenv
+
+  source myenv/bin/activate
+  
+  pip install -r requirements.txt
+  
+  
+Turn on server-
+  uvicorn --port 5000 --host 127.0.0.1 main:app --reload
+  
+  Server should be on 127.0.0.1
 
 
+Frontend (AAV-frontend):
+*Must have Node.js installed - Our version: https://nodejs.org/en/blog/release/v16.17.1/*
+
+  npm install
+  
+  npm start
 
 
-Frontend:
