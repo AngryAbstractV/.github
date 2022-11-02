@@ -59,7 +59,7 @@ Must have Node.js installed - Our version: https://nodejs.org/en/blog/release/v1
   npm start
 
 ***
-# Image Processing:
+# paintingEmotion:
 (if you want to run individual image processing files or tests on your local)
 
 Must have Python installed
