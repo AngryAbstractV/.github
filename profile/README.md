@@ -14,16 +14,16 @@
 
 ***
 
-#Python API Access (ImageProcessingAPI):
+# Python API Access (ImageProcessingAPI):
 Must have Python installed
 
-##step 1: clone repo
+## step 1: clone repo
 
-##step 2: navigate to repo
+## step 2: navigate to repo
 
-##step 3: OS specific instructions
+## step 3: OS specific instructions
 
-###Windows Instruction for Environment-
+### Windows Instruction for Environment-
 
   pip install virtualenv
 
@@ -33,7 +33,7 @@ Must have Python installed
 
   pip install -r requirements.txt
 
-###Mac/Linux Instruction for Environment-
+### Mac/Linux Instruction for Environment-
 
   pip install virtualenv
 
@@ -51,7 +51,7 @@ Must have Python installed
 
 ***
 
-#Frontend (AAV-frontend):
+# Frontend (AAV-frontend):
 Must have Node.js installed - Our version: https://nodejs.org/en/blog/release/v16.17.1/
 
   npm install
@@ -59,18 +59,18 @@ Must have Node.js installed - Our version: https://nodejs.org/en/blog/release/v1
   npm start
 
 ***
-#Image Processing:
+# Image Processing:
 (if you want to run individual image processing files or tests on your local)
 
 Must have Python installed
 
-##step 1: clone repo
+## step 1: clone repo
 
-##step 2: navigate to repo
+## step 2: navigate to repo
 
-##step 3: OS specific instructions
+## step 3: OS specific instructions
 
-###Windows Instruction for Environment-
+### Windows Instruction for Environment-
 
   pip install virtualenv
 
