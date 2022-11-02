@@ -11,6 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # instructions for setting up enviornments to run different portions of the project
+there are 3 different repo's in this organization depending on what portion of the project you are trying to access. those portions are
+1. ImageProcessingAPI (python API Access)
+2. FrontEnd
+3. paintingEmotion (backend of image processing algorithms)
+
+please scroll down to see how to set up the correct requirements to run each portion. These instructions are also availible in the readmes for each individual repo.
 
 ***
 
