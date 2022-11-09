@@ -1,12 +1,3 @@
 # .github
 
-Image Processing:
-
-
-
-Python API Access:
-
-
-
-
-Frontend:
+Contains README.md that shows up on main page of the AngryAbstractV Organization.

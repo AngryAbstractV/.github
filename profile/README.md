@@ -1,19 +1,15 @@
-## Hi there 👋## Hi there 👋
+## Hi there 👋
 
-<!--
+# What is this?
+The goal of this project is to predict what emotion a painting will make someone feel.
+We have two models for this one which is purely machine learning
+and another that's based on algorithms modified from the ones provided in [Exploring Principles-of-Art Features For
+Image Emotion Recognition](https://people.computing.clemson.edu/~jzwang/1501863/mm2014/p47-zhao.pdf) by Sicheng Zhao and co. 
 
-**Here are some ideas to get you started:**
+### Website Link
+To try the product for yourself, acess the website at this location: https://emotion-analyzer-5000.netlify.app/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-# Website Link
-To use the product, acess the website at this location: https://emotion-analyzer-5000.netlify.app/
-
-# Instructions for setting up enviornments to run different portions of the project
+# Various Repositories
 There are 3 different repositories in this organization.
 Depending on what portion of the project you are trying to access, click on the respective link to go to it.
 1. [ImageProcessingAPI (Python API Access)](https://github.com/AngryAbstractV/ImageProcessingAPI)
@@ -207,3 +203,5 @@ Replacing <PATH> with where you choose to store your project.
     uvicorn --port 5000 --host 127.0.0.1 main:app --reload
 
 Server should be at 127.0.0.1/5000, access it by placing that in the address bar of your browser.
+
+# Refrences
