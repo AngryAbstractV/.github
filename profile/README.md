@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# What is this?
+# What is AAV?
 The goal of this project is to predict what emotion a painting will make someone feel.
 We have two models for this one which is purely machine learning
 and another that's based on algorithms modified from the ones provided in [Exploring Principles-of-Art Features For
@@ -205,3 +205,6 @@ Replacing <PATH> with where you choose to store your project.
 Server should be at 127.0.0.1/5000, access it by placing that in the address bar of your browser.
 
 # Refrences
+S. Zhao, Y. Gao, X. Jiang, H. Yao, T.-S. Chua, and X. Sun, “Exploring principles-of-art features for Image emotion recognition,” Proceedings of the 22nd ACM international conference on Multimedia, pp. 47–56, Nov. 2014.
+
+<!-- Original inspiration photo is Angry Abstract Vagina by Daniela Lo Presti. -->
