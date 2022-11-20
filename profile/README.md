@@ -54,6 +54,8 @@ Must have Python installed
   uvicorn --port 5000 --host 127.0.0.1 main:app --reload
   
   Server should be on 127.0.0.1
+  
+  Documentation for how to use the api can be found at https://54.219.178.171/docs#/
 
 ***
 
