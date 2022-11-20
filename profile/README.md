@@ -55,7 +55,7 @@ Must have Python installed
   
   Server should be on 127.0.0.1
   
-  Documentation for how to use the api can be found at https://54.219.178.171/docs#/
+  Documentation for how to use the api can be found at https://3.101.34.157/docs#/
 
 ***
 
